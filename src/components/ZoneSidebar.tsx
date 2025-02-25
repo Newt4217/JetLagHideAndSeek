@@ -413,7 +413,7 @@ export const ZoneSidebar = () => {
                                         },
                                         {
                                             label: "Bus Stops",
-                                            value: "[highway=bus_stop]",
+                                            value: "[highway=tram_station]",
                                         },
                                     ]}
                                     onValueChange={
